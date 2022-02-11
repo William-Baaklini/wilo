@@ -188,7 +188,7 @@ html {
 }
 
 body {
-  background-color: #935d8c;
+  background-color: #1e272e;
   background-image: url("images/overlay.png"),
     -moz-linear-gradient(45deg, #485460 15%, #1e272e 85%);
   background-image: url("images/overlay.png"),
@@ -215,7 +215,7 @@ body.is-preload *:after {
 /* Type */
 
 body {
-  background-color: #935d8c;
+  background-color: #1e272e;
   color: rgba(255, 255, 255, 0.65);
 }
 
