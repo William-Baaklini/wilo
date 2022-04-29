@@ -137,6 +137,14 @@ table {
   border-spacing: 0;
 }
 
+.no-deco,
+.no-deco:hover,
+.no-deco:focus,
+.no-deco:active {
+  text-decoration: none;
+  color: inherit;
+}
+
 body {
   -webkit-text-size-adjust: none;
 }
@@ -149,6 +157,10 @@ mark {
 input::-moz-focus-inner {
   border: 0;
   padding: 0;
+}
+
+.const-size img {
+  height: 600px;
 }
 
 input,
